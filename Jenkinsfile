@@ -1,3 +1,3 @@
 node{
-  echo "Hello"
+  echo "Hello i'm new "
 }
